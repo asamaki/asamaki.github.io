@@ -1,167 +1,170 @@
-[
-    {
-        "seriesName": "My　first　big",
-        "publisherName": "小学館",
-        "booksGenreId": "001001012"
-    },
-    {
-        "seriesName": "フラワーコミックス",
-        "publisherName": "小学館",
-        "booksGenreId": "001001002008\/001001004006"
-    },
-    {
-        "seriesName": "少年サンデーコミックス〔スペシャル〕",
-        "publisherName": "小学館",
-        "booksGenreId": "001001001009"
-    },
-    {
-        "seriesName": "小学館ジュニア文庫",
-        "publisherName": "小学館",
-        "booksGenreId": "001004008009\/001008022008"
-    },
-    {
-        "seriesName": "小学館の図鑑 NEO",
-        "publisherName": "小学館",
-        "booksGenreId": "001003007"
-    },
-    {
-        "seriesName": "ビッグ コミックス",
-        "publisherName": "小学館",
-        "booksGenreId": "001001003009"
-    },
-    {
-        "seriesName": "てんとう虫コミックス",
-        "publisherName": "小学館",
-        "booksGenreId": "001001001014"
-    },
-    {
-        "seriesName": "小学館ビジュアルムック",
-        "publisherName": "小学館",
-        "booksGenreId": "001022002"
-    },
-    {
-        "seriesName": "サンデーGXコミックス",
-        "publisherName": "小学館",
-        "booksGenreId": "001001003039"
-    },
-    {
-        "seriesName": "集英社新書",
-        "publisherName": "集英社",
-        "booksGenreId": "001020014"
-    },
-    {
-        "seriesName": "集英社新書",
-        "publisherName": "集英社",
-        "booksGenreId": "001004004001"
-    },
-    {
-        "seriesName": "JUMP jBOOKS",
-        "publisherName": "集英社",
-        "booksGenreId": "001008022008"
-    },
-    {
-        "seriesName": "ヤングジャンプコミックス",
-        "publisherName": "集英社",
-        "booksGenreId": "001001003005"
-    },
-    {
-        "seriesName": "ジャンプコミックス",
-        "publisherName": "集英社",
-        "booksGenreId": "001001001008"
-    },
-    {
-        "seriesName": "SHUEISHA　Girls　Remix",
-        "publisherName": "集英社",
-        "booksGenreId": "001001012"
-    },
-    {
-        "seriesName": "集英社文庫(コミック版)",
-        "publisherName": "集英社",
-        "booksGenreId": "001001006001\/001001006010"
-    },
-    {
-        "seriesName": "集英社みらい文庫",
-        "publisherName": "集英社",
-        "booksGenreId": "001003002008\/001004008009\/001008022008"
-    },
-    {
-        "seriesName": "集英社文庫(日本)",
-        "publisherName": "集英社",
-        "booksGenreId": "001004008009\/001008022008"
-    },
-    {
-        "seriesName": "集英社新書",
-        "publisherName": "集英社",
-        "booksGenreId": "001006021\/001020008"
-    },
-    {
-        "seriesName": "マーガレットコミックス",
-        "publisherName": "集英社",
-        "booksGenreId": "001001002006"
-    },
-    {
-        "seriesName": "Vジャンプブックス",
-        "publisherName": "集英社",
-        "booksGenreId": "001011005001"
-    },
-    {
-        "seriesName": "満点ゲットシリーズ\/ちびまる子ちゃん",
-        "publisherName": "集英社",
-        "booksGenreId": "001002001001\/001002006001"
-    },
-    {
-        "seriesName": "講談社のお料理BOOK",
-        "publisherName": "講談社",
-        "booksGenreId": "001015"
-    },
-    {
-        "seriesName": "講談社タイガ",
-        "publisherName": "講談社",
-        "booksGenreId": "001004008009\/001008022008"
-    },
-    {
-        "seriesName": "バスマガジンMOOK",
-        "publisherName": "講談社",
-        "booksGenreId": "001022002"
-    },
-    {
-        "seriesName": "アフタヌーンKC",
-        "publisherName": "講談社",
-        "booksGenreId": "001001003015"
-    },
-    {
-        "seriesName": "モーニング　KC",
-        "publisherName": "講談社",
-        "booksGenreId": "001001012"
-    },
-    {
-        "seriesName": "IDコミックス　4コマKINGSぱれっとコミックス",
-        "publisherName": "一迅社",
-        "booksGenreId": "001001002018\/001001002024\/001001003043"
-    },
-    {
-        "seriesName": "講談社のテレビえほん",
-        "publisherName": "講談社",
-        "booksGenreId": "001011002004"
-    },
-    {
-        "seriesName": "ブルーバックス",
-        "publisherName": "講談社",
-        "booksGenreId": "001020010"
-    },
-    {
-        "seriesName": "講談社＋α新書",
-        "publisherName": "講談社",
-        "booksGenreId": "001008027\/001020002"
-    },
-    {
-        "seriesName": "IDコミックス　百合姫コミックス",
-        "publisherName": "一迅社",
-        "booksGenreId": "001001002018\/001001002024\/001001002025\/001001003043"
-    },
-    {
-        "seriesName": "講談社ラノベ文庫",
-        "publisherName": "講談社",
-        "booksGenreId": "001008022008\/001017005016"
-    }
-]
+{
+  "itemCount": 0,
+  "items":[
+      {
+          "seriesName": "My　first　big",
+          "publisherName": "小学館",
+          "booksGenreId": "001001012"
+      },
+      {
+          "seriesName": "フラワーコミックス",
+          "publisherName": "小学館",
+          "booksGenreId": "001001002008\/001001004006"
+      },
+      {
+          "seriesName": "少年サンデーコミックス〔スペシャル〕",
+          "publisherName": "小学館",
+          "booksGenreId": "001001001009"
+      },
+      {
+          "seriesName": "小学館ジュニア文庫",
+          "publisherName": "小学館",
+          "booksGenreId": "001004008009\/001008022008"
+      },
+      {
+          "seriesName": "小学館の図鑑 NEO",
+          "publisherName": "小学館",
+          "booksGenreId": "001003007"
+      },
+      {
+          "seriesName": "ビッグ コミックス",
+          "publisherName": "小学館",
+          "booksGenreId": "001001003009"
+      },
+      {
+          "seriesName": "てんとう虫コミックス",
+          "publisherName": "小学館",
+          "booksGenreId": "001001001014"
+      },
+      {
+          "seriesName": "小学館ビジュアルムック",
+          "publisherName": "小学館",
+          "booksGenreId": "001022002"
+      },
+      {
+          "seriesName": "サンデーGXコミックス",
+          "publisherName": "小学館",
+          "booksGenreId": "001001003039"
+      },
+      {
+          "seriesName": "集英社新書",
+          "publisherName": "集英社",
+          "booksGenreId": "001020014"
+      },
+      {
+          "seriesName": "集英社新書",
+          "publisherName": "集英社",
+          "booksGenreId": "001004004001"
+      },
+      {
+          "seriesName": "JUMP jBOOKS",
+          "publisherName": "集英社",
+          "booksGenreId": "001008022008"
+      },
+      {
+          "seriesName": "ヤングジャンプコミックス",
+          "publisherName": "集英社",
+          "booksGenreId": "001001003005"
+      },
+      {
+          "seriesName": "ジャンプコミックス",
+          "publisherName": "集英社",
+          "booksGenreId": "001001001008"
+      },
+      {
+          "seriesName": "SHUEISHA　Girls　Remix",
+          "publisherName": "集英社",
+          "booksGenreId": "001001012"
+      },
+      {
+          "seriesName": "集英社文庫(コミック版)",
+          "publisherName": "集英社",
+          "booksGenreId": "001001006001\/001001006010"
+      },
+      {
+          "seriesName": "集英社みらい文庫",
+          "publisherName": "集英社",
+          "booksGenreId": "001003002008\/001004008009\/001008022008"
+      },
+      {
+          "seriesName": "集英社文庫(日本)",
+          "publisherName": "集英社",
+          "booksGenreId": "001004008009\/001008022008"
+      },
+      {
+          "seriesName": "集英社新書",
+          "publisherName": "集英社",
+          "booksGenreId": "001006021\/001020008"
+      },
+      {
+          "seriesName": "マーガレットコミックス",
+          "publisherName": "集英社",
+          "booksGenreId": "001001002006"
+      },
+      {
+          "seriesName": "Vジャンプブックス",
+          "publisherName": "集英社",
+          "booksGenreId": "001011005001"
+      },
+      {
+          "seriesName": "満点ゲットシリーズ\/ちびまる子ちゃん",
+          "publisherName": "集英社",
+          "booksGenreId": "001002001001\/001002006001"
+      },
+      {
+          "seriesName": "講談社のお料理BOOK",
+          "publisherName": "講談社",
+          "booksGenreId": "001015"
+      },
+      {
+          "seriesName": "講談社タイガ",
+          "publisherName": "講談社",
+          "booksGenreId": "001004008009\/001008022008"
+      },
+      {
+          "seriesName": "バスマガジンMOOK",
+          "publisherName": "講談社",
+          "booksGenreId": "001022002"
+      },
+      {
+          "seriesName": "アフタヌーンKC",
+          "publisherName": "講談社",
+          "booksGenreId": "001001003015"
+      },
+      {
+          "seriesName": "モーニング　KC",
+          "publisherName": "講談社",
+          "booksGenreId": "001001012"
+      },
+      {
+          "seriesName": "IDコミックス　4コマKINGSぱれっとコミックス",
+          "publisherName": "一迅社",
+          "booksGenreId": "001001002018\/001001002024\/001001003043"
+      },
+      {
+          "seriesName": "講談社のテレビえほん",
+          "publisherName": "講談社",
+          "booksGenreId": "001011002004"
+      },
+      {
+          "seriesName": "ブルーバックス",
+          "publisherName": "講談社",
+          "booksGenreId": "001020010"
+      },
+      {
+          "seriesName": "講談社＋α新書",
+          "publisherName": "講談社",
+          "booksGenreId": "001008027\/001020002"
+      },
+      {
+          "seriesName": "IDコミックス　百合姫コミックス",
+          "publisherName": "一迅社",
+          "booksGenreId": "001001002018\/001001002024\/001001002025\/001001003043"
+      },
+      {
+          "seriesName": "講談社ラノベ文庫",
+          "publisherName": "講談社",
+          "booksGenreId": "001008022008\/001017005016"
+      }
+  ]
+}
