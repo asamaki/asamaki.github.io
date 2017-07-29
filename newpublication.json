@@ -2,67 +2,243 @@
   "Items": [
     {
       "title": "魔喰のリース 3",
-      "salesDate": "2017/08/04"
-    },
-    {
-      "title": "ONE PIECE　magazine　vol.2",
-      "salesDate": "2017/08/04"
+      "author": "小田原 愛",
+      "publisherName": "集英社",
+      "isbn": "9784088811420",
+      "salesDate": "2017年08月04日",
+      "itemPrice": 432
     },
     {
       "title": "ワンダーラビットガール 7",
-      "salesDate": "2017/08/04"
+      "author": "廣瀬 ゆい",
+      "publisherName": "集英社",
+      "isbn": "9784088811383",
+      "salesDate": "2017年08月04日",
+      "itemPrice": 473
     },
     {
       "title": "ONE PIECE 86",
-      "salesDate": "2017/08/04"
+      "author": "尾田 栄一郎",
+      "publisherName": "集英社",
+      "isbn": "9784088811987",
+      "salesDate": "2017年08月04日",
+      "itemPrice": 432
+    },
+    {
+      "title": "ONE PIECE　magazine　vol.2",
+      "author": "尾田 栄一郎",
+      "publisherName": "集英社",
+      "isbn": "9784081022335",
+      "salesDate": "2017年08月04日",
+      "itemPrice": 972
     },
     {
       "title": "ジョジョリオン 15",
-      "salesDate": "2017/07/25"
+      "author": "荒木 飛呂彦",
+      "publisherName": "集英社",
+      "isbn": "9784088808826",
+      "salesDate": "2017年07月19日",
+      "itemPrice": 432
     },
     {
       "title": "ONE PIECE magazine Vol.1",
-      "salesDate": "2017/07/20"
+      "author": "尾田 栄一郎",
+      "publisherName": "集英社",
+      "isbn": "9784081022328",
+      "salesDate": "2017年07月07日",
+      "itemPrice": 972
     },
     {
       "title": "斉木楠雄のサイ難 22",
-      "salesDate": "2017/07/021"
+      "author": "麻生 周一",
+      "publisherName": "集英社",
+      "isbn": "9784088811802",
+      "salesDate": "2017年07月04日",
+      "itemPrice": 432
     },
     {
       "title": "最強ボスザル伝 アラシ!!! 2",
-      "salesDate": "2017/07/13"
-    },
-    {
-      "title": "群青のマグメル 4",
-      "salesDate": "2017/07/12"
+      "author": "小栗 かずまた",
+      "publisherName": "集英社",
+      "isbn": "9784088811895",
+      "salesDate": "2017年07月04日",
+      "itemPrice": 432
     },
     {
       "title": "i・ショウジョ+ 14",
-      "salesDate": "2017/07/11"
+      "author": "高山 としのり",
+      "publisherName": "集英社",
+      "isbn": "9784088812403",
+      "salesDate": "2017年07月04日",
+      "itemPrice": 486
     },
     {
       "title": "ONE PIECE FILM GOLD (下)",
-      "salesDate": "2017/07/10"
+      "author": "尾田 栄一郎/ジャンプ・コミック出版編集部",
+      "publisherName": "集英社",
+      "isbn": "9784088812540",
+      "salesDate": "2017年07月04日",
+      "itemPrice": 977
     },
     {
       "title": "銀魂ーぎんたまー 69",
-      "salesDate": "2017/07/04"
-    },
-    {
-      "title": "エルドライブ【elDLIVE】 8",
-      "salesDate": "2017/07/04"
-    },
-    {
-      "title": "約束のネバーランド 4",
-      "salesDate": "2017/07/04"
-    },
-    {
-      "title": "ONE PIECE FILM GOLD (上)",
-      "salesDate": "2017/06/29"
+      "author": "空知 英秋",
+      "publisherName": "集英社",
+      "isbn": "9784088811871",
+      "salesDate": "2017年07月04日",
+      "itemPrice": 432
     },
     {
       "title": "食戟のソーマ 25",
-      "salesDate": "2017/06/23"
+      "author": "佐伯 俊/附田 祐斗",
+      "publisherName": "集英社",
+      "isbn": "9784088811826",
+      "salesDate": "2017年07月04日",
+      "itemPrice": 432
+    },
+    {
+      "title": "エルドライブ【elDLIVE】 8",
+      "author": "天野 明",
+      "publisherName": "集英社",
+      "isbn": "9784088811307",
+      "salesDate": "2017年07月04日",
+      "itemPrice": 668
+    },
+    {
+      "title": "約束のネバーランド 4",
+      "author": "出水 ぽすか/白井 カイウ",
+      "publisherName": "集英社",
+      "isbn": "9784088811833",
+      "salesDate": "2017年07月04日",
+      "itemPrice": 432
+    },
+    {
+      "title": "ONE PIECE FILM GOLD (上)",
+      "author": "尾田 栄一郎/ジャンプ・コミック出版編集部",
+      "publisherName": "集英社",
+      "isbn": "9784088812533",
+      "salesDate": "2017年07月04日",
+      "itemPrice": 977
+    },
+    {
+      "title": "群青のマグメル 4",
+      "author": "第年秒",
+      "publisherName": "集英社",
+      "isbn": "9784088812465",
+      "salesDate": "2017年07月04日",
+      "itemPrice": 432
+    },
+    {
+      "title": "ムッツリ真拳 3",
+      "author": "杉田 尚",
+      "publisherName": "集英社",
+      "isbn": "9784088811291",
+      "salesDate": "2017年07月04日",
+      "itemPrice": 486
+    },
+    {
+      "title": "しりこだま! 2",
+      "author": "佐々木 恵",
+      "publisherName": "集英社",
+      "isbn": "9784088811888",
+      "salesDate": "2017年07月04日",
+      "itemPrice": 432
+    },
+    {
+      "title": "KISS×DEATH 5",
+      "author": "叶 恭弘",
+      "publisherName": "集英社",
+      "isbn": "9784088808383",
+      "salesDate": "2017年07月04日",
+      "itemPrice": 432
+    },
+    {
+      "title": "腹ペコのマリー 1",
+      "author": "田村 隆平",
+      "publisherName": "集英社",
+      "isbn": "9784088811796",
+      "salesDate": "2017年07月04日",
+      "itemPrice": 432
+    },
+    {
+      "title": "磯部磯兵衛物語〜浮世はつらいよ〜 14",
+      "author": "仲間 りょう",
+      "publisherName": "集英社",
+      "isbn": "9784088811819",
+      "salesDate": "2017年07月04日",
+      "itemPrice": 432
+    },
+    {
+      "title": "なんて古っ代! ファラオくん 2",
+      "author": "小林 拙太",
+      "publisherName": "集英社",
+      "isbn": "9784088811918",
+      "salesDate": "2017年07月04日",
+      "itemPrice": 432
+    },
+    {
+      "title": "時間の支配者 2",
+      "author": "彭傑",
+      "publisherName": "集英社",
+      "isbn": "9784088811338",
+      "salesDate": "2017年07月04日",
+      "itemPrice": 432
+    },
+    {
+      "title": "うちはサスケの写輪眼伝 3",
+      "author": "平 健史",
+      "publisherName": "集英社",
+      "isbn": "9784088810683",
+      "salesDate": "2017年07月04日",
+      "itemPrice": 432
+    },
+    {
+      "title": "双星の陰陽師 12",
+      "author": "助野 嘉昭",
+      "publisherName": "集英社",
+      "isbn": "9784088811246",
+      "salesDate": "2017年07月04日",
+      "itemPrice": 473
+    },
+    {
+      "title": "ムッツリ真拳 2",
+      "author": "杉田 尚",
+      "publisherName": "集英社",
+      "isbn": "9784088811277",
+      "salesDate": "2017年07月04日",
+      "itemPrice": 432
+    },
+    {
+      "title": "怪物事変 2",
+      "author": "藍本 松",
+      "publisherName": "集英社",
+      "isbn": "9784088811284",
+      "salesDate": "2017年07月04日",
+      "itemPrice": 473
+    },
+    {
+      "title": "この音とまれ! 15",
+      "author": "アミュー",
+      "publisherName": "集英社",
+      "isbn": "9784088811260",
+      "salesDate": "2017年07月04日",
+      "itemPrice": 473
+    },
+    {
+      "title": "ROBOT×LASERBEAM 1",
+      "author": "藤巻 忠俊",
+      "publisherName": "集英社",
+      "isbn": "9784088811857",
+      "salesDate": "2017年07月04日",
+      "itemPrice": 432
+    },
+    {
+      "title": "Dr.STONE 1",
+      "author": "Boichi/稲垣 理一郎",
+      "publisherName": "集英社",
+      "isbn": "9784088811840",
+      "salesDate": "2017年07月04日",
+      "itemPrice": 432
     }
   ]
 }
