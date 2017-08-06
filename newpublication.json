@@ -2,124 +2,304 @@
   "count":10,
   "Items": [
     {
-      "title": "魔喰のリース 3",
-      "author": "小田原 愛",
+      "title": "U19 3",
+      "author": "木村 勇治",
       "publisherName": "集英社",
-      "isbn": "9784088811420",
-      "salesDate": "2017/08/20",
-      "itemPrice": 432
+      "isbn": "9784088812151",
+      "salesDate": "2017年08月04日",
+      "itemPrice": 432,
+      "smallImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2151/9784088812151.jpg?_ex=64x64",
+      "largeImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2151/9784088812151.jpg?_ex=200x200"
+    },
+    {
+      "title": "天神─TENJIN─ 8",
+      "author": "杉江 翼/小森 陽一",
+      "publisherName": "集英社",
+      "isbn": "9784088812557",
+      "salesDate": "2017年08月04日",
+      "itemPrice": 432,
+      "smallImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2557/9784088812557.jpg?_ex=64x64",
+      "largeImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2557/9784088812557.jpg?_ex=200x200"
+    },
+    {
+      "title": "ブラッククローバー 12",
+      "author": "田畠 裕基",
+      "publisherName": "集英社",
+      "isbn": "9784088811925",
+      "salesDate": "2017年08月04日",
+      "itemPrice": 432,
+      "smallImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1925/9784088811925.jpg?_ex=64x64",
+      "largeImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1925/9784088811925.jpg?_ex=200x200"
+    },
+    {
+      "title": "ファイアパンチ 6",
+      "author": "藤本 タツキ",
+      "publisherName": "集英社",
+      "isbn": "9784088811475",
+      "salesDate": "2017年08月04日",
+      "itemPrice": 432,
+      "smallImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1475/9784088811475.jpg?_ex=64x64",
+      "largeImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1475/9784088811475.jpg?_ex=200x200"
+    },
+    {
+      "title": "ハイキュー!! 27",
+      "author": "古舘 春一",
+      "publisherName": "集英社",
+      "isbn": "9784088811949",
+      "salesDate": "2017年08月04日",
+      "itemPrice": 432,
+      "smallImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1949/9784088811949.jpg?_ex=64x64",
+      "largeImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1949/9784088811949.jpg?_ex=200x200"
+    },
+    {
+      "title": "放課後の王子様 5",
+      "author": "佐倉 ケンイチ/許斐 剛",
+      "publisherName": "集英社",
+      "isbn": "9784088811413",
+      "salesDate": "2017年08月04日",
+      "itemPrice": 534,
+      "smallImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1413/9784088811413.jpg?_ex=64x64",
+      "largeImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1413/9784088811413.jpg?_ex=200x200"
+    },
+    {
+      "title": "モンハン漫画 ぽかぽかアイルー村 5",
+      "author": "菊池 晃弘/カプコン",
+      "publisherName": "集英社",
+      "isbn": "9784088810430",
+      "salesDate": "2017年08月04日",
+      "itemPrice": 518,
+      "smallImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0430/9784088810430.jpg?_ex=64x64",
+      "largeImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0430/9784088810430.jpg?_ex=200x200"
+    },
+    {
+      "title": "左門くんはサモナー 10",
+      "author": "沼 駿",
+      "publisherName": "集英社",
+      "isbn": "9784088811970",
+      "salesDate": "2017年08月04日",
+      "itemPrice": 432,
+      "smallImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1970/9784088811970.jpg?_ex=64x64",
+      "largeImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1970/9784088811970.jpg?_ex=200x200"
+    },
+    {
+      "title": "阿波連さんははかれない 1",
+      "author": "水 あさと",
+      "publisherName": "集英社",
+      "isbn": "9784088810904",
+      "salesDate": "2017年08月04日",
+      "itemPrice": 594,
+      "smallImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0904/9784088810904.jpg?_ex=64x64",
+      "largeImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0904/9784088810904.jpg?_ex=200x200"
+    },
+    {
+      "title": "新テニスの王子様 21",
+      "author": "許斐 剛",
+      "publisherName": "集英社",
+      "isbn": "9784088811406",
+      "salesDate": "2017年08月04日",
+      "itemPrice": 473,
+      "smallImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1406/9784088811406.jpg?_ex=64x64",
+      "largeImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1406/9784088811406.jpg?_ex=200x200"
+    },
+    {
+      "title": "花のち晴れ 〜花男 Next Season〜 7",
+      "author": "神尾 葉子",
+      "publisherName": "集英社",
+      "isbn": "9784088811468",
+      "salesDate": "2017年08月04日",
+      "itemPrice": 432,
+      "smallImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1468/9784088811468.jpg?_ex=64x64",
+      "largeImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1468/9784088811468.jpg?_ex=200x200"
+    },
+    {
+      "title": "カラダ探し 14",
+      "author": "村瀬 克俊/ウェルザード",
+      "publisherName": "集英社",
+      "isbn": "9784088811314",
+      "salesDate": "2017年08月04日",
+      "itemPrice": 432,
+      "smallImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1314/9784088811314.jpg?_ex=64x64",
+      "largeImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1314/9784088811314.jpg?_ex=200x200"
+    },
+    {
+      "title": "鬼滅の刃 7",
+      "author": "吾峠 呼世晴",
+      "publisherName": "集英社",
+      "isbn": "9784088811932",
+      "salesDate": "2017年08月04日",
+      "itemPrice": 432,
+      "smallImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1932/9784088811932.jpg?_ex=64x64",
+      "largeImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1932/9784088811932.jpg?_ex=200x200"
+    },
+    {
+      "title": "BLACK TORCH 2",
+      "author": "タカキ ツヨシ",
+      "publisherName": "集英社",
+      "isbn": "9784088811390",
+      "salesDate": "2017年08月04日",
+      "itemPrice": 473,
+      "smallImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1390/9784088811390.jpg?_ex=64x64",
+      "largeImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1390/9784088811390.jpg?_ex=200x200"
+    },
+    {
+      "title": "ワンパンマン 14",
+      "author": "村田 雄介/ONE",
+      "publisherName": "集英社",
+      "isbn": "9784088812311",
+      "salesDate": "2017年08月04日",
+      "itemPrice": 432,
+      "smallImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2311/9784088812311.jpg?_ex=64x64",
+      "largeImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2311/9784088812311.jpg?_ex=200x200"
+    },
+    {
+      "title": "地獄先生ぬ～べ～NEO 11",
+      "author": "岡野 剛/真倉 翔",
+      "publisherName": "集英社",
+      "isbn": "9784088812328",
+      "salesDate": "2017年08月04日",
+      "itemPrice": 432,
+      "smallImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2328/9784088812328.jpg?_ex=64x64",
+      "largeImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2328/9784088812328.jpg?_ex=200x200"
+    },
+    {
+      "title": "青のフラッグ 2",
+      "author": "KAITO",
+      "publisherName": "集英社",
+      "isbn": "9784088811451",
+      "salesDate": "2017年08月04日",
+      "itemPrice": 555,
+      "smallImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1451/9784088811451.jpg?_ex=64x64",
+      "largeImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1451/9784088811451.jpg?_ex=200x200"
+    },
+    {
+      "title": "ポロの留学記 2",
+      "author": "権平 ひつじ",
+      "publisherName": "集英社",
+      "isbn": "9784088812069",
+      "salesDate": "2017年08月04日",
+      "itemPrice": 453,
+      "smallImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2069/9784088812069.jpg?_ex=64x64",
+      "largeImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2069/9784088812069.jpg?_ex=200x200"
     },
     {
       "title": "ワンダーラビットガール 7",
       "author": "廣瀬 ゆい",
       "publisherName": "集英社",
       "isbn": "9784088811383",
-      "salesDate": "2017/08/17",
-      "itemPrice": 473
+      "salesDate": "2017年08月04日",
+      "itemPrice": 473,
+      "smallImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1383/9784088811383.jpg?_ex=64x64",
+      "largeImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1383/9784088811383.jpg?_ex=200x200"
     },
     {
-      "title": "ONE PIECE 86",
-      "author": "尾田 栄一郎",
+      "title": "ハッピィミリィ 2",
+      "author": "城戸 みつる",
       "publisherName": "集英社",
-      "isbn": "9784088811987",
-      "salesDate": "2017/08/06",
-      "itemPrice": 432
+      "isbn": "9784088811536",
+      "salesDate": "2017年08月04日",
+      "itemPrice": 473,
+      "smallImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1536/9784088811536.jpg?_ex=64x64",
+      "largeImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1536/9784088811536.jpg?_ex=200x200"
+    },
+    {
+      "title": "大森サティスファクション 2",
+      "author": "清水 コウセイ",
+      "publisherName": "集英社",
+      "isbn": "9784088811253",
+      "salesDate": "2017年08月04日",
+      "itemPrice": 648,
+      "smallImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1253/9784088811253.jpg?_ex=64x64",
+      "largeImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1253/9784088811253.jpg?_ex=200x200"
+    },
+    {
+      "title": "魔喰のリース 3",
+      "author": "小田原 愛",
+      "publisherName": "集英社",
+      "isbn": "9784088811420",
+      "salesDate": "2017年08月04日",
+      "itemPrice": 432,
+      "smallImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1420/9784088811420.jpg?_ex=64x64",
+      "largeImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1420/9784088811420.jpg?_ex=200x200"
+    },
+    {
+      "title": "貧民超人カネナシくん 1",
+      "author": "ぱげらった",
+      "publisherName": "集英社",
+      "isbn": "9784088812298",
+      "salesDate": "2017年08月04日",
+      "itemPrice": 594,
+      "smallImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2298/9784088812298.jpg?_ex=64x64",
+      "largeImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2298/9784088812298.jpg?_ex=200x200"
+    },
+    {
+      "title": "U19 2",
+      "author": "木村 勇治",
+      "publisherName": "集英社",
+      "isbn": "9784088811963",
+      "salesDate": "2017年08月04日",
+      "itemPrice": 432,
+      "smallImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1963/9784088811963.jpg?_ex=64x64",
+      "largeImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1963/9784088811963.jpg?_ex=200x200"
     },
     {
       "title": "ONE PIECE　magazine　vol.2",
       "author": "尾田 栄一郎",
       "publisherName": "集英社",
       "isbn": "9784081022335",
-      "salesDate": "2017/08/05",
-      "itemPrice": 972
+      "salesDate": "2017年08月04日",
+      "itemPrice": 972,
+      "smallImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2335/9784081022335.jpg?_ex=64x64",
+      "largeImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2335/9784081022335.jpg?_ex=200x200"
+    },
+    {
+      "title": "ONE PIECE 86",
+      "author": "尾田 栄一郎",
+      "publisherName": "集英社",
+      "isbn": "9784088811987",
+      "salesDate": "2017年08月04日",
+      "itemPrice": 432,
+      "smallImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1987/9784088811987.jpg?_ex=64x64",
+      "largeImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1987/9784088811987.jpg?_ex=200x200"
+    },
+    {
+      "title": "彼方のアストラ 4",
+      "author": "篠原 健太",
+      "publisherName": "集英社",
+      "isbn": "9784088811444",
+      "salesDate": "2017年08月04日",
+      "itemPrice": 473,
+      "smallImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1444/9784088811444.jpg?_ex=64x64",
+      "largeImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1444/9784088811444.jpg?_ex=200x200"
     },
     {
       "title": "ジョジョリオン 15",
       "author": "荒木 飛呂彦",
       "publisherName": "集英社",
       "isbn": "9784088808826",
-      "salesDate": "2017/07/19",
-      "itemPrice": 432
-    },
-    {
-      "title": "ONE PIECE magazine Vol.1",
-      "author": "尾田 栄一郎",
-      "publisherName": "集英社",
-      "isbn": "9784081022328",
-      "salesDate": "2017/07/07",
-      "itemPrice": 972
-    },
-    {
-      "title": "斉木楠雄のサイ難 22",
-      "author": "麻生 周一",
-      "publisherName": "集英社",
-      "isbn": "9784088811802",
-      "salesDate": "2017/07/04",
-      "itemPrice": 432
-    },
-    {
-      "title": "最強ボスザル伝 アラシ!!! 2",
-      "author": "小栗 かずまた",
-      "publisherName": "集英社",
-      "isbn": "9784088811895",
-      "salesDate": "2017/07/04",
-      "itemPrice": 432
+      "salesDate": "2017年07月19日",
+      "itemPrice": 432,
+      "smallImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8826/9784088808826.jpg?_ex=64x64",
+      "largeImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8826/9784088808826.jpg?_ex=200x200"
     },
     {
       "title": "i・ショウジョ+ 14",
       "author": "高山 としのり",
       "publisherName": "集英社",
       "isbn": "9784088812403",
-      "salesDate": "2017/07/04",
-      "itemPrice": 486
+      "salesDate": "2017年07月04日",
+      "itemPrice": 486,
+      "smallImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2403/9784088812403.jpg?_ex=64x64",
+      "largeImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2403/9784088812403.jpg?_ex=200x200"
     },
     {
-      "title": "ONE PIECE FILM GOLD (下)",
-      "author": "尾田 栄一郎/ジャンプ・コミック出版編集部",
+      "title": "斉木楠雄のサイ難 22",
+      "author": "麻生 周一",
       "publisherName": "集英社",
-      "isbn": "9784088812540",
-      "salesDate": "2017/07/04",
-      "itemPrice": 977
-    },
-    {
-      "title": "銀魂ーぎんたまー 69",
-      "author": "空知 英秋",
-      "publisherName": "集英社",
-      "isbn": "9784088811871",
-      "salesDate": "2017/07/04",
-      "itemPrice": 432
-    },
-    {
-      "title": "怪物事変 2",
-      "author": "藍本 松",
-      "publisherName": "集英社",
-      "isbn": "9784088811284",
-      "salesDate": "2017/06/24",
-      "itemPrice": 473
-    },
-    {
-      "title": "この音とまれ! 15",
-      "author": "アミュー",
-      "publisherName": "集英社",
-      "isbn": "9784088811260",
-      "salesDate": "2017/06/14",
-      "itemPrice": 473
-    },
-    {
-      "title": "ROBOT×LASERBEAM 1",
-      "author": "藤巻 忠俊",
-      "publisherName": "集英社",
-      "isbn": "9784088811857",
-      "salesDate": "2017/06/07",
-      "itemPrice": 432
-    },
-    {
-      "title": "Dr.STONE 1",
-      "author": "Boichi/稲垣 理一郎",
-      "publisherName": "集英社",
-      "isbn": "9784088811840",
-      "salesDate": "2017/06/01",
-      "itemPrice": 432
+      "isbn": "9784088811802",
+      "salesDate": "2017年07月04日",
+      "itemPrice": 432,
+      "smallImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1802/9784088811802.jpg?_ex=64x64",
+      "largeImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1802/9784088811802.jpg?_ex=200x200"
     }
   ]
 }
