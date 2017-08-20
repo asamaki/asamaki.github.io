@@ -1,0 +1,41 @@
+{
+  "count": 3053,
+  "page": 1,
+  "first": 1,
+  "last": 30,
+  "hits": 30,
+  "carrier": 0,
+  "pageCount": 100,
+  "Items": [
+    {
+      "id":1,
+      "title": "ONE PIECE",
+      "Katakana": "ワンピース",
+      "publisherName": "集英社",
+      "isbn": "9784081022342",
+      "smallImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2342/9784081022342.gif?_ex=64x64",
+      "mediumImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2342/9784081022342.gif?_ex=120x120",
+      "largeImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2342/9784081022342.gif?_ex=200x200"
+    },
+    {
+      "id":2,
+      "title": "ろくでなしBLUES",
+      "Katakana": "ロクデナシ",
+      "publisherName": "集英社",
+      "isbn": "9784081022343",
+      "smallImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2342/9784081022342.gif?_ex=64x64",
+      "mediumImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2342/9784081022342.gif?_ex=120x120",
+      "largeImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2342/9784081022342.gif?_ex=200x200"
+    },
+    {
+      "id":3,
+      "title": "ジョジョの奇妙な冒険",
+      "Katakana": "ジョジョ",
+      "publisherName": "集英社",
+      "isbn": "9784081022344",
+      "smallImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2342/9784081022342.gif?_ex=64x64",
+      "mediumImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2342/9784081022342.gif?_ex=120x120",
+      "largeImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2342/9784081022342.gif?_ex=200x200"
+    }
+  ]
+}
