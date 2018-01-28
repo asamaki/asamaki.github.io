@@ -1,38 +1,131 @@
 {
-  "count": 3053,
-  "page": 1,
-  "first": 1,
-  "last": 30,
-  "hits": 30,
-  "carrier": 0,
-  "pageCount": 100,
-  "Items": [
-    {
-      "id":1,
-      "title": "ONE PIECE",
-      "titleKatakana": "ワンピース",
-      "publisherName": "集英社",
-      "smallImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2342/9784081022342.gif?_ex=64x64",
-      "mediumImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2342/9784081022342.gif?_ex=120x120",
-      "largeImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2342/9784081022342.gif?_ex=200x200"
-    },
-    {
-      "id":2,
-      "title": "ろくでなしBLUES",
-      "titleKatakana": "ロクデナシ",
-      "publisherName": "集英社",
-      "smallImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2342/9784081022342.gif?_ex=64x64",
-      "mediumImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2342/9784081022342.gif?_ex=120x120",
-      "largeImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2342/9784081022342.gif?_ex=200x200"
-    },
-    {
-      "id":3,
-      "title": "ジョジョの奇妙な冒険",
-      "titleKatakana": "ジョジョ",
-      "publisherName": "集英社",
-      "smallImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2342/9784081022342.gif?_ex=64x64",
-      "mediumImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2342/9784081022342.gif?_ex=120x120",
-      "largeImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2342/9784081022342.gif?_ex=200x200"
-    }
+   "count": 348,
+   "items": [
+          {
+       "id": 6595,
+       "title": "シャーマンキング",
+       "titleKataKana": "シャーマンキング",
+       "publisherName": "集英社",
+       "smallImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0711/9784088900711.jpg?_ex=64x64",
+       "mediumImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0711/9784088900711.jpg?_ex=120x120",
+       "largeImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0711/9784088900711.jpg?_ex=200x200"
+     }
+      ,           {
+       "id": 6679,
+       "title": "コネクト",
+       "titleKataKana": "コネクト",
+       "publisherName": "集英社",
+       "smallImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4627/9784088904627.jpg?_ex=64x64",
+       "mediumImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4627/9784088904627.jpg?_ex=120x120",
+       "largeImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4627/9784088904627.jpg?_ex=200x200"
+     }
+      ,           {
+       "id": 6712,
+       "title": "僕に彼女が出来るまで",
+       "titleKataKana": "僕に彼女が出来るまで",
+       "publisherName": "集英社",
+       "smallImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6782/9784088906782.jpg?_ex=64x64",
+       "mediumImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6782/9784088906782.jpg?_ex=120x120",
+       "largeImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6782/9784088906782.jpg?_ex=200x200"
+     }
+      ,           {
+       "id": 6457,
+       "title": "長歌行",
+       "titleKataKana": "長歌行",
+       "publisherName": "集英社",
+       "smallImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2644/9784088792644.jpg?_ex=64x64",
+       "mediumImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2644/9784088792644.jpg?_ex=120x120",
+       "largeImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2644/9784088792644.jpg?_ex=200x200"
+     }
+      ,           {
+       "id": 6521,
+       "title": "群青戦記",
+       "titleKataKana": "群青戦記",
+       "publisherName": "集英社",
+       "smallImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7397/9784088797397.jpg?_ex=64x64",
+       "mediumImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7397/9784088797397.jpg?_ex=120x120",
+       "largeImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7397/9784088797397.jpg?_ex=200x200"
+     }
+      ,           {
+       "id": 6553,
+       "title": "制服魔法みどりちゃん",
+       "titleKataKana": "制服魔法みどりちゃん",
+       "publisherName": "集英社",
+       "smallImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0100/9784088900100.jpg?_ex=64x64",
+       "mediumImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0100/9784088900100.jpg?_ex=120x120",
+       "largeImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0100/9784088900100.jpg?_ex=200x200"
+     }
+      ,           {
+       "id": 6585,
+       "title": "パト★ラッシュ!",
+       "titleKataKana": "パト★ラッシュ!",
+       "publisherName": "集英社",
+       "smallImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0926/9784088900926.jpg?_ex=64x64",
+       "mediumImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0926/9784088900926.jpg?_ex=120x120",
+       "largeImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0926/9784088900926.jpg?_ex=200x200"
+     }
+      ,           {
+       "id": 6617,
+       "title": "Runin",
+       "titleKataKana": "Runin",
+       "publisherName": "集英社",
+       "smallImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1992/9784088901992.jpg?_ex=64x64",
+       "mediumImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1992/9784088901992.jpg?_ex=120x120",
+       "largeImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1992/9784088901992.jpg?_ex=200x200"
+     }
+      ,           {
+       "id": 6649,
+       "title": "しんそつ七不思議",
+       "titleKataKana": "しんそつ七不思議",
+       "publisherName": "集英社",
+       "smallImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3248/9784088903248.jpg?_ex=64x64",
+       "mediumImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3248/9784088903248.jpg?_ex=120x120",
+       "largeImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3248/9784088903248.jpg?_ex=200x200"
+     }
+      ,           {
+       "id": 6680,
+       "title": "ウザ姉!!",
+       "titleKataKana": "ウザ姉!!",
+       "publisherName": "集英社",
+       "smallImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4580/9784088904580.jpg?_ex=64x64",
+       "mediumImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4580/9784088904580.jpg?_ex=120x120",
+       "largeImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4580/9784088904580.jpg?_ex=200x200"
+     }
+      ,           {
+       "id": 6554,
+       "title": "うねちゃこ!ときめき家庭科部",
+       "titleKataKana": "うねちゃこ!ときめき家庭科部",
+       "publisherName": "集英社",
+       "smallImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0070/9784088900070.jpg?_ex=64x64",
+       "mediumImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0070/9784088900070.jpg?_ex=120x120",
+       "largeImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0070/9784088900070.jpg?_ex=200x200"
+     }
+      ,           {
+       "id": 6586,
+       "title": "スイミング",
+       "titleKataKana": "スイミング",
+       "publisherName": "集英社",
+       "smallImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0735/9784088900735.jpg?_ex=64x64",
+       "mediumImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0735/9784088900735.jpg?_ex=120x120",
+       "largeImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0735/9784088900735.jpg?_ex=200x200"
+     }
+      ,           {
+       "id": 6618,
+       "title": "RESET新装版",
+       "titleKataKana": "RESET新装版",
+       "publisherName": "集英社",
+       "smallImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1718/9784088901718.jpg?_ex=64x64",
+       "mediumImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1718/9784088901718.jpg?_ex=120x120",
+       "largeImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1718/9784088901718.jpg?_ex=200x200"
+     }
+      ,           {
+       "id": 6650,
+       "title": "LICENSE",
+       "titleKataKana": "LICENSE",
+       "publisherName": "集英社",
+       "smallImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3811/9784088903811.jpg?_ex=64x64",
+       "mediumImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3811/9784088903811.jpg?_ex=120x120",
+       "largeImageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3811/9784088903811.jpg?_ex=200x200"
+     }
   ]
 }
